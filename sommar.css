@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    font-size: xx-large;
+}
+.textbox{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.text{
+    display: flex;
+    width: 80%;
+    font-size: large;
+}
